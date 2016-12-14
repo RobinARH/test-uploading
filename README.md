@@ -1,5 +1,5 @@
 # test-uploading
 
-added from Robin's fork
+added from (change in middle) Robin's fork
 
-added this from Robin's fork.
+added this (and another) from Robin's fork.
